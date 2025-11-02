@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.deyops.plaquealoya",
+      "sha256_cert_fingerprints": [
+        "4E:E3:84:82:62:BE:AA:6A:68:D3:DB:A0:57:01:35:E1:17:C3:85:55:FE:9A:F6:F7:90:B8:00:8B:71:D8:ED:31"
+      ]
+    }
+  }
+]
